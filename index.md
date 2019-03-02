@@ -1,2 +1,2 @@
 ## First Post 
-Dummy post to checkout out github pages
+Dummy post to checkout github pages
