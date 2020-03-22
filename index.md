@@ -17,14 +17,14 @@ I am a software engineer working for AWS.
 
 ## Projects
 #### At Toshiba
-1. Cryptographic kernel drivers. 
+* Cryptographic kernel drivers. 
 
 #### At Intel
-1. Post-quantum cryptography 
+* Post-quantum cryptography. 
 
 #### At AWS
-1. Decoupling of AWS accounts from Amazon.com.
-2. Implement U2F.
-3. Support for External Identities within AWS. 
-4. Implement WebAuthn.
+* Decoupling of AWS accounts from Amazon.com.
+* Implement U2F.
+* Support for External Identities within AWS. 
+* Implement WebAuthn.
 
