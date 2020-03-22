@@ -1,7 +1,4 @@
-<html><center>test</center></html>
-
 # Amaresh Talluri
-
 Hi, welcome!
 
 ## About
