@@ -9,13 +9,20 @@ I am a software engineer working for AWS.
 ## Career
 1. Toshiba
 2. Intel
-3. AWS (Current)
+3. Amazon Web Services (Current)
 
 ## Education
 1. Manipal Institute of Technology - Bachelors in Computer Science
 2. Arizona State University - Masters in Computer Science
 
 ## Projects
+#### At Toshiba
+1. Cryptographic kernel drivers. 
+
+#### At Intel
+1. Post-quantum cryptography 
+
+#### At AWS
 1. Decoupling of AWS accounts from Amazon.com.
 2. Implement U2F.
 3. Support for External Identities within AWS. 
