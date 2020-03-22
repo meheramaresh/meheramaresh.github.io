@@ -16,7 +16,7 @@ I am a software engineer working for AWS.
 2. Arizona State University - Masters in Computer Science
 
 ## Projects
-1. Decoupling of AWS Accounts.
+1. Decoupling of AWS accounts from Amazon.com.
 2. Implement U2F.
 3. Support for External Identities within AWS. 
 4. Implement WebAuthn.
