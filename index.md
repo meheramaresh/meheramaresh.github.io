@@ -5,12 +5,11 @@
 </html>
 
 
-## About
 I am a software engineer currently working for AWS. 
 
 ## Projects
 1. Decoupling of AWS Accounts.
-2. U2F
-3. Support for External Identities in AWS. 
-4. WebAuthn
+2. Implement U2F.
+3. Support for External Identities within AWS. 
+4. Implement WebAuthn.
 
