@@ -1,5 +1,9 @@
-# Amaresh Talluri
-Hi, welcome!
+<html>
+    <h1 align="center">
+        Amaresh Talluri
+    </h1>
+</html>
+
 
 ## About
 I am a software engineer currently working for AWS. 
