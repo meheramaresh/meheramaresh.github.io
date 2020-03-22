@@ -1,8 +1,8 @@
-# -> Amaresh Talluri <-
+<html><center>test</center></html>
 
-Welcome to my blog. 
+# Amaresh Talluri
 
-## Markdown Website
-I am currently using markdown to build my website, lets see how it progresses. 
-Jekyll seems to offer some functionality to help build these websites.
+Hi, welcome!
 
+## About
+I am a software engineer currently working for AWS. 
